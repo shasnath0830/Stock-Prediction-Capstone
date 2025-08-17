@@ -16,20 +16,9 @@ This capstone project focuses on developing and evaluating machine learning mode
 
 - `data/` - Raw and processed datasets
 - `notebooks/` - Jupyter notebooks for analysis
-- `src/` - Source code for data processing and modeling
-- `models/` - Trained model files
-- `reports/` - Generated analysis reports
 
 ## Requirements
 
 - Python 3.8+
 - Jupyter Notebook
 - Required packages listed in requirements.txt
-
-## Usage
-
-Instructions for running the project will be added as development progresses.
-
-## License
-
-This project is licensed under the MIT License.
